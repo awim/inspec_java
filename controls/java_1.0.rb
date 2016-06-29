@@ -1,5 +1,5 @@
 # encoding: utf-8
-# copyright: 2015, DEMO Team Verint
+# copyright: 2016, awim / mtaqwim
 # license: All rights reserved
 
 title 'which(UNIX)/where(Windows) java installed'
