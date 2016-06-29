@@ -1,0 +1,8 @@
+name: java
+title: InSpec Java in system
+maintainer: awim
+copyright: awim / mtaqwim
+copyright_email: muhammadtaqwiem@gmail.com
+license: All Rights Reserved
+summary: An InSpec Compliance Profile
+version: 0.0.1
